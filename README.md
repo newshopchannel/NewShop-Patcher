@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been made by KokiKitsune and has been scrapped now.
+
 # NewShop-Patcher
 The NewShop Patcher made in C Sharp and Python
 
